@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\githubfile\Phunware-studio\ProjectShow\Phunware\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\gson-2.3.1-f7e44c231a8499ca7de368497901462d69db016f.jar" />
+    </item>
+    <item
+        jar="F:\githubfile\Phunware-studio\ProjectShow\Phunware\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e19387dc3b060af32f5401f84fbe246635256955">
+        <dex dex="F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\android-support-v4-901d20578edfb8419b3a8949a36750950b4d7109.jar" />
+    </item>
+    <item
+        jar="F:\githubfile\Phunware-studio\ProjectShow\Phunware\libs\android-query-full.0.24.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd4b958b6817244d4e6f74ce5f4dbd8001974b77">
+        <dex dex="F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\android-query-full.0.24.3-4091e7084f2b9fa114ff6e2083792001ef2d2901.jar" />
+    </item>
+    <item
+        jar="F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\exploded-aar\ProjectShow\appcompat\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8616e75bcfe3eb7a8d940dfccd807369737660a2">
+        <dex dex="F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\classes-5ead4ef2f4e4ca07b112d68e264276f721b2f7f0.jar" />
+    </item>
+    <item
+        jar="F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\exploded-aar\ProjectShow\appcompat\unspecified\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6320cadeeae06d913978807ee787e9fafac77a27">
+        <dex dex="F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-09f64cb1d2e60b5b679468f3ff59ea9135d77cd2.jar" />
+    </item>
+
+</items>

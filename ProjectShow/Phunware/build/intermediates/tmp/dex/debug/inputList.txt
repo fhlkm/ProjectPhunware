@@ -1,0 +1,6 @@
+F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\classes\debug
+F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\classes-5ead4ef2f4e4ca07b112d68e264276f721b2f7f0.jar
+F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\gson-2.3.1-f7e44c231a8499ca7de368497901462d69db016f.jar
+F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\android-query-full.0.24.3-4091e7084f2b9fa114ff6e2083792001ef2d2901.jar
+F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-09f64cb1d2e60b5b679468f3ff59ea9135d77cd2.jar
+F:\githubfile\Phunware-studio\ProjectShow\Phunware\build\intermediates\pre-dexed\debug\android-support-v4-901d20578edfb8419b3a8949a36750950b4d7109.jar
